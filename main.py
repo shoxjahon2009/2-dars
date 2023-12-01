@@ -3,21 +3,7 @@ while True:
    if a % 2 == 0 :
         print("raxmat")
     else:
-       print("bu juft son emas")
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+       print("bu juft son emaq")
 
 
 
