@@ -1,9 +1,9 @@
-while True:
-   a = int(input("son yozing"))
-   if a % 2 == 0 :
-        print("raxmat")
-    else:
-       print("bu juft son emaq")
+number = int(input("Son: "))
+if number % 2 == 0:
+    print("Rahmat!")
+
+else:
+    print("Bu juft son emas: ")
 
 
 
